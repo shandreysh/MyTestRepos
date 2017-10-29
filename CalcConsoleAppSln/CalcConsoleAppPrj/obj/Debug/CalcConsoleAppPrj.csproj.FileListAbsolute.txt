@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\bin\Debug\CalcConsoleAppPrj.exe.config
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\bin\Debug\CalcConsoleAppPrj.exe
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\bin\Debug\CalcConsoleAppPrj.pdb
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\obj\Debug\CalcConsoleAppPrj.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\obj\Debug\CalcConsoleAppPrj.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\obj\Debug\CalcConsoleAppPrj.exe
+c:\users\admin\source\repos\CalcConsoleAppSln\CalcConsoleAppPrj\obj\Debug\CalcConsoleAppPrj.pdb
